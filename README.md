@@ -1,6 +1,6 @@
 # Landing-experiment
 
-Analysis-mobility_economy
+landing_experiment
 Este repositorio contiene el análisis del experimento entre dos versiones de una página en una empresa de ecommerce.
 
 El dataset landing_experiment incluye 40.000 registros de usuarios únicos que se registraron en una de las dos versiones de la página.
