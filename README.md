@@ -10,7 +10,7 @@ S9 Version_Student_Proyecto_Landing_Experiment → Notebook principal con limpie
 ▶ Cómo abrir el notebook en Google Colab
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/github/DA-CristianGutierrez/Landing-experiment/blob/main/S9%20Version_Student_Proyecto_Landing_Experiment.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DA-CristianGutierrez/Landing-experiment/blob/main/S9%20Version_Student_Proyecto_Landing_Experiment.ipynb)
 
 o:
 
