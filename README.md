@@ -45,8 +45,7 @@ Explorar, validar y analizar estadísticamente el experimento A/B para identific
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-análisis correlacional (exploratorio) no causal.
-
+Pruebas estadísticas / Expermiento A/B
 
 ## Metodología
 
