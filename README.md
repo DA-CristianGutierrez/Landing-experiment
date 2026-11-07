@@ -1,8 +1,5 @@
 # Landing-experiment
 
-landing_experiment
-Este repositorio contiene el análisis del experimento entre dos versiones de una página en una empresa de ecommerce.
-
 El dataset landing_experiment incluye 40.000 registros de usuarios únicos que se registraron en una de las dos versiones de la página.
 
 ## 📂 Contenido del repositorio
@@ -28,7 +25,7 @@ o:
 2.Ejecuta las celdas en orden
 3.El notebook carga automáticamente el dataset desde /data/ o desde un enlace público (según corresponda)
 
-## Análisis pruebas A/B
+## Análisis estadístico (experimiento A/B)
 
 En este proyecto aplique un experimento A/B en una pagina de inicio de una empresa de e-commerce. Apliqué varios métodos estadísticos buscando diferencias significativas y que variables pudieran tener mayor influencia. Comparé las tasas de conversión así como el monto total vendido entre ambas páginas con el fin de mejorar la efectividad de compra. Finalmente identifiqué que fuente canaliza más usuarios aportando mayor número de usuarios y preferencia por alguno de los canales en cuestión.
 
